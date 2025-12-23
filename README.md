@@ -5,9 +5,7 @@
 <div align="center">
   <h3> 🚀 QA | Desenvolvedor | Entusiasta de Tecnologia </h3>
   
-  <a href="www.linkedin.com/in/rogeriocarneiro94
-
-" target="_blank">
+  <a href="www.linkedin.com/in/rogeriocarneiro94" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:rogeriocarneiro.ti@gmail.com">
