@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+  <h1>Olá, eu sou o Rogério Carneiro!</h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+</div>
 
-<!--
-**rogeriocarneiro94/rogeriocarneiro94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3> 🚀 QA | Desenvolvedor |Entusiasta de Tecnologia </h3>
+  
+  <a href="www.linkedin.com/in/rogeriocarneiro94" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:rogeriocarneiro.ti@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+Sou um profissional focado em qualidade de software e desenvolvimento. Atualmente estou trabalhando em projetos práticos para aprimorar minhas habilidades em **Java** e **Automação**.
+
+* 🔭 Atualmente trabalhando no projeto **Bonita Fashion ERP**.
+* 🌱 Estudando **Arquitetura de Software** e **Melhores Práticas de QA**.
+* 🎯 Objetivo: Criar soluções que resolvam problemas reais de negócio.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+---
+
+### 📂 Projetos em Destaque
+
+#### 🛍️ [Bonita Fashion ERP](https://github.com/rogeriocarneiro94/bonitaFashion)
+> Sistema de gestão para varejo de moda.
+* **O problema:** Necessidade de controlar estoque e vendas de forma simples.
+* **A solução:** Um ERP que gerencia produtos, clientes e fluxo de caixa.
+* **Techs:** Java, Swing, SQL.
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriocarneiro94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriocarneiro94&layout=compact&theme=dracula"/>
+</div>
