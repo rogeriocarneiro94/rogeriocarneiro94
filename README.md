@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
-  <h1>Olá, eu sou o Rogério Carneiro!</h1>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+  <h1>Olá, eu sou o Rogério!</h1>
 </div>
 
 <div align="center">
-  <h3> 🚀 QA | Desenvolvedor |Entusiasta de Tecnologia </h3>
+  <h3> 🚀 QA | Desenvolvedor | Entusiasta de Tecnologia </h3>
   
   <a href="www.linkedin.com/in/rogeriocarneiro94" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -46,13 +44,5 @@ Sou um profissional focado em qualidade de software e desenvolvimento. Atualment
 > Sistema de gestão para varejo de moda.
 * **O problema:** Necessidade de controlar estoque e vendas de forma simples.
 * **A solução:** Um ERP que gerencia produtos, clientes e fluxo de caixa.
-* **Techs:** Java, Swing, SQL.
+* **Techs:** Java, JavaScript, Swing, SQL.
 
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriocarneiro94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriocarneiro94&layout=compact&theme=dracula"/>
-</div>
